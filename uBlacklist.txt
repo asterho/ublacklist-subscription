@@ -1,0 +1,6 @@
+---
+name: my list
+homepage: https://github.com/asterho/ublacklist-subscription
+---
+*://*.csdn.net/*
+*://*.csdn.com/*
